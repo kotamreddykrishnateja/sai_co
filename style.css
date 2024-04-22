@@ -156,4 +156,10 @@ h2{
         border-radius: 100%;
     
         }
+        #vid{
+            width: 45%;
+            min-width:310px;
+            height: 28%;
+            min-height: 250px;
+        }
         
